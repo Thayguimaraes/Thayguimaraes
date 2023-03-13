@@ -9,7 +9,7 @@
 
 -  studying Digital Game Development🎓🖥️.
 
-- I’m currently learning Python, Angular, VueJS and ReactJS 🍵.
+- I’m currently learning PHP, Angular, VueJS and ReactJS 🍵.
 
 - I develop in JavaScript, NodeJS.
 
