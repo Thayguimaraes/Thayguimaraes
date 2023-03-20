@@ -9,9 +9,9 @@
 
 -  studying Digital Game Development🎓🖥️.
 
-- I’m currently learning PHP, Angular, VueJS and ReactJS 🍵.
+- I’m currently learning  Angular, VueJS and ReactJS 🍵.
 
-- I develop in JavaScript, NodeJS.
+- I develop in JavaScript, NodeJS and PHP.
 
 - How to reach me:
 
