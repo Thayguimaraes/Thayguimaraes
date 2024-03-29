@@ -7,11 +7,11 @@
   
   <p align="left" width="30%">
 
--  studying Digital Game Development🎓🖥️.
+-  studying Software Engineering🎓🖥️.
 
-- I’m currently learning  Angular, VueJS and ReactJS 🍵.
+- I’m currently learning Java and machine learning 🍵.
 
-- I develop in JavaScript, NodeJS and PHP.
+- I develop in JavaScript, NodeJS and PHP, Laravel, React.
 
 - How to reach me:
 
